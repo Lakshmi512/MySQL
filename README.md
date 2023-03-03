@@ -1,2 +1,2 @@
 # MySQL
-MySQL (Included Coding ,Assignment, Projects)
+MySQL (Included Coding ,Assignment(By iNeuron), Projects)
