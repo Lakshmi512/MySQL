@@ -63,7 +63,7 @@ SELECT * FROM nobel
  
  SELECT  winner, yr, subject FROM nobel 
  WHERE winner LIKE 'sir%'
-ORDER BY yr dDESC, winner;
+ORDER BY yr DESC, winner;
 
 --Show the 1984 winners and subject ordered by subject and winner name, but list chemistry and physics last
 
